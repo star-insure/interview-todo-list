@@ -26,7 +26,7 @@ Do a search for `BRIEF:` to find points throughout the codebase that your input 
 - An empty MySQL or SQLite database named "my_todos", adjust `.env` accordingly
 
 ## Getting started
-To begin, create a fork of this repository [here](https://github.com/star-insure/interview-todo-list/fork). You can then follow the instructions below to set up the project.
+To begin, create a fork of this repository [here](https://github.com/star-insure/interview-todo-list/fork). You can then follow the instructions below to set up the project. It is suggested that you keep your fork a **private** repository.
 
 ## Installation
 Create an environment file, and populate it according to your local setup:
