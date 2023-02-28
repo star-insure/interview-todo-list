@@ -71,4 +71,4 @@ npm run dev
 No need to create a production build.
 
 ## Evaluation
-To submit, please email a link of your forked repository to [dev@intuitcreative.com](mailto:dev@intuitcreative.com).
+To submit, please email a link of your repository to [dev@intuitcreative.com](mailto:dev@intuitcreative.com).
